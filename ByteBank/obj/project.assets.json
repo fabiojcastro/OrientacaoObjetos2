@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio Castro\\source\\repos\\OrientacaoObjeto2\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio Castro\\source\\repos\\OrientacaoObjeto3\\ByteBank\\ByteBank.csproj",
       "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\Fabio Castro\\source\\repos\\OrientacaoObjeto2\\ByteBank\\ByteBank.csproj",
+      "projectPath": "C:\\Users\\Fabio Castro\\source\\repos\\OrientacaoObjeto3\\ByteBank\\ByteBank.csproj",
       "packagesPath": "C:\\Users\\Fabio Castro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio Castro\\source\\repos\\OrientacaoObjeto2\\ByteBank\\obj\\",
+      "outputPath": "C:\\Users\\Fabio Castro\\source\\repos\\OrientacaoObjeto3\\ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fabio Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
